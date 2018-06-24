@@ -1,7 +1,7 @@
 $(function () {
 
   var page = 1;
-  var pageSize = 5;
+  var pageSize = 10;
 
   //动态的渲染数据与分页
   render();
